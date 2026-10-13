@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Aapke local system ka content...
-=======
-GitHub remote wala content...
->>>>>>> FETCH_HEAD
+This is just for testing
