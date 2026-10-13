@@ -1,1 +1,5 @@
-This app is just for testing
+<<<<<<< HEAD
+Aapke local system ka content...
+=======
+GitHub remote wala content...
+>>>>>>> FETCH_HEAD
